@@ -43,3 +43,32 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions about this Privacy Policy, please contact us at:
 
 binamark41@gmail.com
+
+
+
+## Requesting Account Deletion
+We respect your privacy and give you full control over your data. If you wish to delete your account and all associated data, please follow the steps below.
+
+### What will be deleted?
+Your request will permanently delete all of the following data from our servers:
+
+Your chosen username.
+
+Your unique user ID.
+
+All game progress, including levels completed, stars earned, and high scores.
+
+All in-game assets and purchases.
+
+### How to submit a request:
+
+  Send an email to binamark41@gmail.com.
+
+  In the subject line, please write: "Account Deletion Request".
+
+  In the body of the email, you must include your in-game username and your full user ID. This information is required to verify your ownership of the account.
+
+  Once we receive your request, we will send a confirmation email. The data deletion process will be completed within 7 business days.
+
+Please be aware that this action is irreversible. Once your data is deleted, it cannot be recovered.
+
